@@ -77,7 +77,7 @@ We will be having a number of surprise visits/seminars on the applications of Da
 ### Register here :relaxed:
 
 {% hint style="warning" %}
-**Application Deadline: 29th** July 2023.
+**Application Deadline: 21st** July 2023.
 {% endhint %}
 
 {% embed url="https://forms.gle/zbWmaTC7QamMZrPt5" %}
